@@ -1,0 +1,6 @@
+math_mapgen_rewrite.size (size) int 1000
+math_mapgen_rewrite.distance (distance) float 0.01
+math_mapgen_rewrite.invert (invert) int 0
+math_mapgen_rewrite.iterations (iterations) int 10
+math_mapgen_rewrite.scale (scale) float 0.001
+math_mapgen_rewrite.ores (spawn ores?) bool false
